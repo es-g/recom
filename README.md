@@ -15,3 +15,9 @@ For users that have interacted with a few articles, a combination of rank-based 
 
 The main drawback of the recommendations systems implemented above is that the findings are observational ('off-line'). To truly validate our assumptions, we need to run A/B test and divide the audience into groups where one of the groups should be a control group. This will help us determine the best approach and choose the best recommendation method or a combination of methods.
 
+
+## Licence
+MIT License
+
+Copyright (c) 2021 Yesbol Gabdullin
+
